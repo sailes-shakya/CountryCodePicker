@@ -13,7 +13,6 @@ android {
     minSdkVersion 14
     targetSdkVersion 29
     versionCode verCode
-    versionName version
   }
 
   buildTypes {
@@ -29,6 +28,6 @@ dependencies {
 //  testImplementation 'junit:junit:4.12'
 //  api 'io.michaelrocks:libphonenumber-android:8.10.7'
 //  api 'io.michaelrocks:libphonenumber-android:8.10.16'
-  api 'io.michaelrocks:libphonenumber-android:8.12.5'
+  api 'io.michaelrocks:libphonenumber-android:8.12.44'
   implementation 'androidx.annotation:annotation:1.1.0'
 }
